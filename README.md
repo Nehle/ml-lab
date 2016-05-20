@@ -3,6 +3,7 @@
 ## Select libraries
 Full list: https://github.com/josephmisiti/awesome-machine-learning
 
+* http://accord-framework.net/
 * http://airbnb.io/aerosolve/
 * https://github.com/tensorflow/tensorflow
 * http://torch.ch/
